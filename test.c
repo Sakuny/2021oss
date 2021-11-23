@@ -1,6 +1,11 @@
 #include <stdio.h>
+#include <string.h>
 int main()
 {
+  
+  string str;
+  string str2;
+  
   int a=10;
   int b=20;
   int c= 1000;
